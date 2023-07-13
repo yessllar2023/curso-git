@@ -1,6 +1,6 @@
-# Comandos de git  
-git add- git commit- 5git push-3 git branch- 4git checkout-git log -git status-git revert-git pull- 6git merge- git restore- git reset-7 git diff- 8 git fetch
-1. comando para inicializar el proyecto en git.
+# Comandos de git 
+
+1. comando para inicializar el proyecto en git. Nos permite inicializar un repositorio nuevo.
 ```
 git init
 ```
@@ -34,3 +34,28 @@ git diff
 ```
 git fetch
 ```
+9. comando que permite ingresar a vscode desde la terminal de git bash
+ ```
+.code
+```
+
+10. permite ingresar a una carpeta o archivo desde la terminal.
+ ```
+cd
+```
+11. para crear una carpeta en git
+```
+mkdir
+```
+12. permite saber la ruta en que nos encontramos (ej.buscar ingresar a una carpeta o archivo)
+```
+pwd
+```
+13. nos permite ver los archivos de la carpeta donde estamos actualmente.
+```
+ls
+```
+
+
+ 
+falta git add- git commit-git log -git status-git revert-git pull- git restore- git reset
